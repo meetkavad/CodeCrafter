@@ -1,0 +1,14 @@
+{
+    "componentType": "Card",
+    "title": "Example Card",
+    "image": {
+      "url": "/images/card-image.jpg",
+      "alt": "Card Image"
+    },
+    "description": "This is a sample card description. You can customize it as needed.",
+    "button": {
+      "text": "Learn More",
+      "link": "/details"
+    }
+  }
+  

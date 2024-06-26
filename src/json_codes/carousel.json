@@ -1,0 +1,24 @@
+{
+    "componentType": "Carousel",
+    "slides": [
+      {
+        "image": "/images/slide1.jpg",
+        "caption": "Welcome to our website!",
+        "buttonText": "Learn More",
+        "buttonLink": "/about"
+      },
+      {
+        "image": "/images/slide2.jpg",
+        "caption": "Explore our services",
+        "buttonText": "View Services",
+        "buttonLink": "/services"
+      },
+      {
+        "image": "/images/slide3.jpg",
+        "caption": "Join our community",
+        "buttonText": "Sign Up",
+        "buttonLink": "/signup"
+      }
+    ]
+  }
+  
