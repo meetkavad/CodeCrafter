@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.components-container {
+    margin : 0vh 10vh; 
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    text-align: center;
+
+
+}
+
+.components {
+    border: 1px solid black;
+    margin: 10px 20vh ;
+    padding : 20px ;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
+
+a:hover{
+    text-decoration : underline ;
+}

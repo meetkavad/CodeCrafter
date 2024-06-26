@@ -1,0 +1,36 @@
+{
+    "componentType": "Navbar",
+    "logo": {
+      "url": "/logo.png",
+      "alt": "Company Logo"
+    },
+    "links": [
+      {
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "title": "About",
+        "url": "/about"
+      },
+      {
+        "title": "Services",
+        "url": "/services",
+        "dropdown": [
+          {
+            "title": "Service 1",
+            "url": "/service1"
+          },
+          {
+            "title": "Service 2",
+            "url": "/service2"
+          }
+        ]
+      },
+      {
+        "title": "Contact",
+        "url": "/contact"
+      }
+    ]
+  }
+  
